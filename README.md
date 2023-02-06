@@ -174,3 +174,10 @@ Por lo cual, podemos hacer POST desde estos clientes a nuestra API.
 ![Post](https://photos.silabuz.com/uploads/big/7c5c9bb20f9011b051d9cad08aeec120.PNG)
 
 Entonces, con una única ruta creada, podemos realizar todo el CRUD de nuestra aplicación. Esta ruta podemos utilizarla en nuestro frontend para realizar el CRUD completo pero desde el lado del cliente.
+
+### Links
+Videos:
+[Teoria](https://www.youtube.com/watch?v=t4QZp1TQZp4&list=PLxI5H7lUXWhgHbHF4bNrZdBHDtf0CbEeH&index=1&ab_channel=Silabuz)
+[Practica](https://www.youtube.com/watch?v=J-K0oehNI-8&list=PLxI5H7lUXWhgHbHF4bNrZdBHDtf0CbEeH&index=2&ab_channel=Silabuz)
+Diapositivas:
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTOc4XAwHV8cn1hHbwH3lYiCEzzMEUjwGcC7tbVF4z4rpR_nI83b1O987LQnTKt9rg7uUdTE7Z9jGAJ/embed?start=false&loop=false&delayms=3000&slide=id.g143f30675af_0_0)
